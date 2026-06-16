@@ -8,13 +8,13 @@
 	font-family:"Gilroy Medium";
 	font-style:normal;
 	font-weight:500;
-	src : url("../../font/Gilroy-medium.ttf");
+	src : url("../../font/gilroy-medium.ttf");
 }
 @font-face {
 	font-family:"Gilroy SemiBold";
 	font-style:normal;
 	font-weight:600;
-	src : url("../../font/Gilroy-semiBold.ttf");
+	src : url("../../font/gilroy-semibold.ttf");
 }
 @font-face {
 	font-family:"Minion Pro";
